@@ -1,5 +1,7 @@
 '''
+Version 4: 
 Implementing difficulties
+Final Version.
 '''
 
 import pygame
